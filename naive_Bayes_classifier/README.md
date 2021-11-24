@@ -1,0 +1,1 @@
+Through this Jupyter notebook, we will know how to implement a naive Bayes classifier in Python for spam mail detection. Specifically, we will classify 5172 emails into 2 groups (classese), i.e, spam and ham (not spam), using the dataset Enron.
