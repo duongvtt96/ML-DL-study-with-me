@@ -1,0 +1,1 @@
+In this folder, we use RNN model to predict wind power from given meteorological features.
